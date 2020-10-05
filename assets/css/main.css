@@ -2112,6 +2112,7 @@
 					width: 2.5em;
 				}
 				ul.genio {
+			text-align:center;
 			list-style: none;
 			padding-left: 0;
 		}
