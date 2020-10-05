@@ -2112,9 +2112,8 @@
 					width: 2.5em;
 				}
 				ul.genio {
-			text-align:center;
 			list-style: none;
-			padding-left: 0;
+			padding-left: 5%;
 		}
 
 			ul.genio li {
@@ -2124,7 +2123,6 @@
 				padding: 0.35em 0 0 3.5em;
 				position: relative;
 				vertical-align: top;
-				width: 48%;
 			}
 
 				ul.genio li:before {
